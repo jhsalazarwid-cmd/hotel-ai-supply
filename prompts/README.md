@@ -1,0 +1,1 @@
+# Prompts utilizados en Lovable
