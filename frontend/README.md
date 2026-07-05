@@ -1,0 +1,1 @@
+# Aplicación desarrollada en Lovable
